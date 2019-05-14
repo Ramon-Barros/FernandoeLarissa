@@ -1,0 +1,32 @@
+@font-face {
+	font-family: 'Alexandria';
+	src: url("../fonts/Alexandria/AlexandriaFLF.ttf");
+	
+}
+
+@font-face {
+    font-family: 'Great';
+    src: url("../fonts/Great/GreatVibes-Regular.ttf")
+	
+}
+
+#fonte li {
+    font-family: 'Great';
+    font-size: 2em;
+}
+
+
+
+#fonte h5 {
+    font-family: 'Alexandria';
+    color:white;
+    font-size: 2em;
+}
+
+
+#fonte p {
+font-family: 'Alexandria';
+font-size: 30px;
+
+
+}

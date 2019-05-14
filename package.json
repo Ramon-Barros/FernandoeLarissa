@@ -1,0 +1,26 @@
+{
+  "name": "sitelarissa",
+  "version": "1.0.0",
+  "description": "comecandoosite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ramon-Barros/FernandoeLarissa.git"
+  },
+  "keywords": [
+    "noivas"
+  ],
+  "author": "ramonbarros",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ramon-Barros/FernandoeLarissa/issues"
+  },
+  "homepage": "https://github.com/Ramon-Barros/FernandoeLarissa#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1"
+  }
+}
