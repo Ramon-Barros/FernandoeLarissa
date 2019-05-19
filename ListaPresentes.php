@@ -3,100 +3,171 @@
 <div class="card-deck">
 
             <div class="card">
-              <img class="card-img-top mx-auto d-block" src="project-1.jpg" alt="Imagem de capa do card" style="width: 15rem; height: 15rem;">
+              <img class="card-img-top mx-auto d-block" src="img/presentes/img-13.jpg" alt="Imagem de capa do card" style="width: 15rem; height: 15rem;">
               <div class="card-body">
-                <h5 class="card-title">Título do card</h5>
-                <p class="card-text">Este é um card mais longo com suporte a texto embaixo, que funciona como uma introdução a um conteúdo adicional. Este conteúdo é um pouco maior.</p>
-                <p class="card-text"><small class="text-muted">Atualizados 3 minutos atrás</small></p>
-              </div>
+                <h5 class="card-title">Jantar Romântico</h5>
+                <p class="card-text">Jantar romântico para os noivos em Punta del Este.</p>
+                <p class="card-text">Valor:  R$ 300,00  <a href="presente.php" class="btn btn-primary">Presentear</a></p>
+                </div>
             </div>
 
+            
             <div class="card">
-              <img class="card-img-top mx-auto d-block" src="project-2.jpg" alt="Imagem de capa do card" style="width: 15rem; height: 15rem;">
+              <img class="card-img-top mx-auto d-block" src="img/presentes/img-10.jpg" alt="Imagem de capa do card" style="width: 15rem; height: 15rem;">
               <div class="card-body">
-                <h5 class="card-title">Título do card</h5>
-                <p class="card-text">Este é um card com suporte a texto embaixo, que funciona como uma introdução a um conteúdo adicional.</p>
-                <p class="card-text"><small class="text-muted">Atualizados 3 minutos atrás</small></p>
-              </div>
-            </div>
-
-            <div class="card">
-              <img class="card-img-top mx-auto d-block" src="project-3.jpg" alt="Imagem de capa do card" style="width: 15rem; height: 15rem;">
-              <div class="card-body">
-                <h5 class="card-title">Título do card</h5>
-                <p class="card-text">Este é um card maior com suporte a texto embaixo, que funciona como uma introdução a um conteúdo adicional. Este card tem o conteúdo ainda maior que o primeiro, para mostrar a altura igual, em ação.</p>
-                <p class="card-text"><small class="text-muted">Atualizados 3 minutos atrás</small></p>
+                <h5 class="card-title">Gasolina para viagem</h5>
+                <p class="card-text">Gasolina para a vaigem de Lua de Mel para Punta del Este.</p>
+                <p class="card-text">Valor: R$ 200,00   <a href="presente.php" class="btn btn-primary">Presentear</a></p>
               </div>
             </div>
 
           <div class="card">
-              <img class="card-img-top mx-auto d-block" src="project-3.jpg" alt="Imagem de capa do card" style="width: 15rem; height: 15rem;">
+              <img class="card-img-top mx-auto d-block" src="img/presentes/img-15.jpg" alt="Imagem de capa do card" style="width: 15rem; height: 15rem;">
               <div class="card-body">
-                <h5 class="card-title">Título do card</h5>
-                <p class="card-text">Este é um card maior com suporte a texto embaixo, que funciona como uma introdução a um conteúdo adicional. Este card tem o conteúdo ainda maior que o primeiro, para mostrar a altura igual, em ação.</p>
-                <p class="card-text"><small class="text-muted">Atualizados 3 minutos atrás</small></p>
+                <h5 class="card-title">Spa no Conrard</h5>
+                <p class="card-text">Spa no Conrad Punta Del Leste para os noivos recuperarem as energias.</p>
+                <p class="card-text">Valor: R$ 400,00  <a href="presente.php" class="btn btn-primary">Presentear</a></p>
               </div>
             </div>
 
             <div class="card">
-                    <img class="card-img-top mx-auto d-block" src="project-3.jpg" alt="Imagem de capa do card" style="width: 15rem; height: 15rem;">
-                    <div class="card-body">
-                      <h5 class="card-title">Título do card</h5>
-                      <p class="card-text">Este é um card maior com suporte a texto embaixo, que funciona como uma introdução a um conteúdo adicional. Este card tem o conteúdo ainda maior que o primeiro, para mostrar a altura igual, em ação.</p>
-                      <p class="card-text"><small class="text-muted">Atualizados 3 minutos atrás</small></p>
-                    </div>
-                  </div>
+              <img class="card-img-top mx-auto d-block" src="img/presentes/img-11.jpg" alt="Imagem de capa do card" style="width: 15rem; height: 15rem;">
+              <div class="card-body">
+                <h5 class="card-title">Lua-de-mel no Hotel</h5>
+                <p class="card-text">Lua-de-mel no Hotel Conrad Em Punta del Este (Diária).</p>
+                <p class="card-text">Valor: R$ 800,00  <a href="presente.php" class="btn btn-primary">Presentear</a></p>
+              </div>
+            </div>
 
           </div>
 
         <br>
+        <div class="card-deck">
 
-          <div class="card-deck">
-
-                <div class="card">
-                  <img class="card-img-top mx-auto d-block" src="project-1.jpg" alt="Imagem de capa do card" style="width: 15rem; height: 15rem;">
-                  <div class="card-body">
-                    <h5 class="card-title">Título do card</h5>
-                    <p class="card-text">Este é um card mais longo com suporte a texto embaixo, que funciona como uma introdução a um conteúdo adicional. Este conteúdo é um pouco maior.</p>
-                    <p class="card-text"><small class="text-muted">Atualizados 3 minutos atrás</small></p>
-                  </div>
-                </div>
-    
-                <div class="card">
-                  <img class="card-img-top mx-auto d-block" src="project-2.jpg" alt="Imagem de capa do card" style="width: 15rem; height: 15rem;">
-                  <div class="card-body">
-                    <h5 class="card-title">Título do card</h5>
-                    <p class="card-text">Este é um card com suporte a texto embaixo, que funciona como uma introdução a um conteúdo adicional.</p>
-                    <p class="card-text"><small class="text-muted">Atualizados 3 minutos atrás</small></p>
-                  </div>
-                </div>
-    
-                <div class="card">
-                  <img class="card-img-top mx-auto d-block" src="project-3.jpg" alt="Imagem de capa do card" style="width: 15rem; height: 15rem;">
-                  <div class="card-body">
-                    <h5 class="card-title">Título do card</h5>
-                    <p class="card-text">Este é um card maior com suporte a texto embaixo, que funciona como uma introdução a um conteúdo adicional. Este card tem o conteúdo ainda maior que o primeiro, para mostrar a altura igual, em ação.</p>
-                    <p class="card-text"><small class="text-muted">Atualizados 3 minutos atrás</small></p>
-                  </div>
-                </div>
-    
-              <div class="card">
-                  <img class="card-img-top mx-auto d-block" src="project-3.jpg" alt="Imagem de capa do card" style="width: 15rem; height: 15rem;">
-                  <div class="card-body">
-                    <h5 class="card-title">Título do card</h5>
-                    <p class="card-text">Este é um card maior com suporte a texto embaixo, que funciona como uma introdução a um conteúdo adicional. Este card tem o conteúdo ainda maior que o primeiro, para mostrar a altura igual, em ação.</p>
-                    <p class="card-text"><small class="text-muted">Atualizados 3 minutos atrás</small></p>
-                  </div>
-                </div>
-    
-                <div class="card">
-                        <img class="card-img-top mx-auto d-block" src="project-3.jpg" alt="Imagem de capa do card" style="width: 15rem; height: 15rem;">
-                        <div class="card-body">
-                          <h5 class="card-title">Título do card</h5>
-                          <p class="card-text">Este é um card maior com suporte a texto embaixo, que funciona como uma introdução a um conteúdo adicional. Este card tem o conteúdo ainda maior que o primeiro, para mostrar a altura igual, em ação.</p>
-                          <p class="card-text"><small class="text-muted">Atualizados 3 minutos atrás</small></p>
-                        </div>
-                      </div>
-    
+            <div class="card">
+              <img class="card-img-top mx-auto d-block" src="img/presentes/img-8.jpg" alt="Imagem de capa do card" style="width: 15rem; height: 15rem;">
+              <div class="card-body">
+                <h5 class="card-title">Jogo Cama</h5>
+                <p class="card-text">Jogo Cama - Liso 200 Fios - Casal – Branco.</p>
+                <p class="card-text">Valor: R$ 150,00  <a href="presente.php" class="btn btn-primary">Presentear</a></p>
               </div>
+            </div>
+
+            
+            <div class="card">
+              <img class="card-img-top mx-auto d-block" src="img/presentes/img-7.jpg" alt="Imagem de capa do card" style="width: 15rem; height: 15rem;">
+              <div class="card-body">
+                <h5 class="card-title">Conjunto para Fondue</h5>
+                <p class="card-text">Conjunto para Fondue c/ 10 peças.</p>
+                <p class="card-text">Valor R$ 114,90  <a href="presente.php" class="btn btn-primary">Presentear</a></p>
+              </div>
+            </div>
+
+          <div class="card">
+              <img class="card-img-top mx-auto d-block" src="img/presentes/img-14.jpg" alt="Imagem de capa do card" style="width: 15rem; height: 15rem;">
+              <div class="card-body">
+                <h5 class="card-title">Faqueiro</h5>
+                <p class="card-text">Faqueiro 24 peças Petals Preto.</p>
+                <p class="card-text">Valor R$ 129,90  <a href="presente.php" class="btn btn-primary">Presentear</a></p>
+              </div>
+            </div>
+
+            <div class="card">
+              <img class="card-img-top mx-auto d-block" src="img/presentes/img-9.jpg" alt="Imagem de capa do card" style="width: 15rem; height: 15rem;">
+              <div class="card-body">
+                <h5 class="card-title">Fritadeira</h5>
+                <p class="card-text">Fritadeira Sem Óleo.</p>
+                <p class="card-text">Valor R$ 350,00  <a href="presente.php" class="btn btn-primary">Presentear</a></p>
+              </div>
+            </div>
+
+          </div>
+
+          <br>
+        <div class="card-deck">
+
+            <div class="card">
+              <img class="card-img-top mx-auto d-block" src="img/presentes/img-12.jpg" alt="Imagem de capa do card" style="width: 15rem; height: 15rem;">
+              <div class="card-body">
+                <h5 class="card-title">Despedida de solteiro para o noivo</h5>
+                <p class="card-text">Despedida de solteiro para o noivo (Cada cota é uma garrafa!).</p>
+                <p class="card-text">Valor R$ 100,00  <a href="presente.php" class="btn btn-primary">Presentear</a></p>
+              </div>
+            </div>
+
+            
+            <div class="card">
+              <img class="card-img-top mx-auto d-block" src="img/presentes/img-1.png" alt="Imagem de capa do card" style="width: 15rem; height: 15rem;">
+              <div class="card-body">
+                <h5 class="card-title">Despedida de solteiro para o noiva</h5>
+                <p class="card-text">Despedida de solteiro para o noiva (Ela também tem direito).</p>
+                <p class="card-text">Valor R$ 100,00  <a href="presente.php" class="btn btn-primary">Presentear</a></p>
+              </div>
+            </div>
+
+          <div class="card">
+              <img class="card-img-top mx-auto d-block" src="img/presentes/img-2.jpg" alt="Imagem de capa do card" style="width: 15rem; height: 15rem;">
+              <div class="card-body">
+                <h5 class="card-title">Relógio com GPS</h5>
+                <p class="card-text">Relógio com GPS para rápida localização do noivo.</p>
+                <p class="card-text">Valor R$ 99,90 <a href="presente.php" class="btn btn-primary">Presentear</a> </p>
+              </div>
+            </div>
+
+            <div class="card">
+              <img class="card-img-top mx-auto d-block" src="img/presentes/img-5.jpg" alt="Imagem de capa do card" style="width: 15rem; height: 15rem;">
+              <div class="card-body">
+                <h5 class="card-title">Acessórios noiva</h5>
+                <p class="card-text">Acessórios para a noiva usar na despedida de solteira </p>
+                <p class="card-text">Valor R$ 90,00 <a href="presente.php" class="btn btn-primary">Presentear</a> </p>
+              </div>
+            </div>
+
+          </div>
+
+          <br>
+
+        <div class="card-deck">
+
+            <div class="card">
+              <img class="card-img-top mx-auto d-block" src="img/presentes/img-4.jpg" alt="Imagem de capa do card" style="width: 15rem; height: 15rem;">
+              <div class="card-body">
+                <h5 class="card-title">Bebidas</h5>
+                <p class="card-text">Não deixe faltar bebidas e churrasco na casa dos noivos para quando você for visitar!.</p>
+                <p class="card-text">Valor R$ 100,00  <a href="presente.php" class="btn btn-primary">Presentear</a></p>
+              </div>
+            </div>
+
+            
+            <div class="card">
+              <img class="card-img-top mx-auto d-block" src="img/presentes/img-6.jpg" alt="Imagem de capa do card" style="width: 15rem; height: 15rem;">
+              <div class="card-body">
+                <h5 class="card-title">Jogo para Churrasco</h5>
+                <p class="card-text">Jogo para Churrasco Inox 3 Peças Tramontina.</p>
+                <p class="card-text">Valor R$ 115,00  <a href="presente.php" class="btn btn-primary">Presentear</a></p>
+              </div>
+            </div>
+
+          <div class="card">
+              <img class="card-img-top mx-auto d-block" src="img/presentes/img-1.jpg" alt="Imagem de capa do card" style="width: 15rem; height: 15rem;">
+              <div class="card-body">
+                <h5 class="card-title">Jogo de Copos</h5>
+                <p class="card-text">Jogo de Copos Baixos Ideal 290ml 6 Peças.</p>
+                <p class="card-text">Valor R$ 90,00  <a href="presente.php" class="btn btn-primary">Presentear</a></p>
+              </div>
+            </div>
+
+            <div class="card">
+              <img class="card-img-top mx-auto d-block" src="img/presentes/img-3.jpg" alt="Imagem de capa do card" style="width: 15rem; height: 15rem;">
+              <div class="card-body">
+                <h5 class="card-title">Adega</h5>
+                <p class="card-text">Adega de vinhos</p>
+                <p class="card-text">Valor R$ 599,00  <a href="presente.php" class="btn btn-primary">Presentear</a></p>
+              </div>
+            </div>
+
+          </div>
+
+      
+              
               <?php include_once("footer.php");?>

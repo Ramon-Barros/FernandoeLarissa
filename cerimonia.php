@@ -1,6 +1,6 @@
 <?php include_once("header.php");?>
 
-<div class="card-body card border-ligth mb-1 mx-auto d-block" style="width: 55rem;">
+<div class="card-body card border-ligth mb-1 mx-auto d-block" style="width: 55rem;"id="fonte">
     <h5 class="card-title text-center">Olá queridos amigos e familiares!</h5>
         <p class="card-text">
             É com grande alegria que aniciamos nosso casamento!

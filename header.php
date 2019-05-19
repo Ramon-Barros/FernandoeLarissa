@@ -1,6 +1,6 @@
 <!--Cabeça do site -->
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="pt-br" ng-app="presente">
   <head>
     <!-- Meta tags Obrigatórias -->
     <meta charset="utf-8">
@@ -12,6 +12,9 @@
 
     <link rel="icon" type="image/x-icon" href="pic04.jpg">
 
+    <script src="lib/angular.min.js"></script>
+    <script src="https://cdn.rawgit.com/openlayers/openlayers.github.io/master/en/v5.3.0/build/ol.js"></script>
+
     <title>Larissa e Fernando </title>
   </head>
   <body>
@@ -21,7 +24,7 @@
 
       
 
-        <img src="img/pic08.jpg" class="img-fluid rounded mx-auto d-block" alt="Responsive image"style="width: 55rem;">
+        
 
 
         <ul class="nav justify-content-center">
