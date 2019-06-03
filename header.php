@@ -6,11 +6,12 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="stylesheet" href="css/estilo.css">
+    <link rel="stylesheet" href="css/estilo-mobile.css">
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 
-    <link rel="icon" type="image/x-icon" href="pic04.jpg">
+    <link rel="icon" type="image/x-icon" href="img/i23.jpg">
 
     <script src="lib/angular.min.js"></script>
     <script src="https://cdn.rawgit.com/openlayers/openlayers.github.io/master/en/v5.3.0/build/ol.js"></script>
@@ -19,13 +20,7 @@
   </head>
   <body>
     <header class="open-menu" id="fonte">
-                    
-            
-
-      
-
-        
-
+                         
 
         <ul class="nav justify-content-center">
             <li class="nav-item">

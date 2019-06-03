@@ -16,7 +16,7 @@
               <img class="card-img-top mx-auto d-block" src="img/presentes/img-10.jpg" alt="Imagem de capa do card" style="width: 15rem; height: 15rem;">
               <div class="card-body">
                 <h5 class="card-title">Gasolina para viagem</h5>
-                <p class="card-text">Gasolina para a vaigem de Lua de Mel para Punta del Este.</p>
+                <p class="card-text">Gasolina para a viagem de Lua de Mel - de Punta del Este para Buenos Aires.</p>
                 <p class="card-text">Valor: R$ 200,00   <a href="presente.php" class="btn btn-primary">Presentear</a></p>
               </div>
             </div>
@@ -25,8 +25,8 @@
               <img class="card-img-top mx-auto d-block" src="img/presentes/img-15.jpg" alt="Imagem de capa do card" style="width: 15rem; height: 15rem;">
               <div class="card-body">
                 <h5 class="card-title">Spa no Conrard</h5>
-                <p class="card-text">Spa no Conrad Punta Del Leste para os noivos recuperarem as energias.</p>
-                <p class="card-text">Valor: R$ 400,00  <a href="presente.php" class="btn btn-primary">Presentear</a></p>
+                <p class="card-text">Spa no Conrad Punta Del Leste para os noivos recuperarem as energias. (03 cotas R$ 133,33)</p>
+                <p class="card-text"> Valor: R$ 400,00  <a href="presente.php" class="btn btn-primary">Presentear</a></p>
               </div>
             </div>
 
@@ -34,7 +34,7 @@
               <img class="card-img-top mx-auto d-block" src="img/presentes/img-11.jpg" alt="Imagem de capa do card" style="width: 15rem; height: 15rem;">
               <div class="card-body">
                 <h5 class="card-title">Lua-de-mel no Hotel</h5>
-                <p class="card-text">Lua-de-mel no Hotel Conrad Em Punta del Este (Diária).</p>
+                <p class="card-text">Lua-de-mel no Hotel Conrad Em Punta del Este (Diária). (05 cotas R$ 160,00)</p>
                 <p class="card-text">Valor: R$ 800,00  <a href="presente.php" class="btn btn-primary">Presentear</a></p>
               </div>
             </div>
@@ -48,7 +48,7 @@
               <img class="card-img-top mx-auto d-block" src="img/presentes/img-8.jpg" alt="Imagem de capa do card" style="width: 15rem; height: 15rem;">
               <div class="card-body">
                 <h5 class="card-title">Jogo Cama</h5>
-                <p class="card-text">Jogo Cama - Liso 200 Fios - Casal – Branco.</p>
+                <p class="card-text">Jogo Cama - Liso 200 Fios <br> Casal – Branco.</p>
                 <p class="card-text">Valor: R$ 150,00  <a href="presente.php" class="btn btn-primary">Presentear</a></p>
               </div>
             </div>
@@ -59,7 +59,7 @@
               <div class="card-body">
                 <h5 class="card-title">Conjunto para Fondue</h5>
                 <p class="card-text">Conjunto para Fondue c/ 10 peças.</p>
-                <p class="card-text">Valor R$ 114,90  <a href="presente.php" class="btn btn-primary">Presentear</a></p>
+                <p class="card-text">Valor R$ 79,90  <a href="presente.php" class="btn btn-primary">Presentear</a></p>
               </div>
             </div>
 
@@ -67,8 +67,8 @@
               <img class="card-img-top mx-auto d-block" src="img/presentes/img-14.jpg" alt="Imagem de capa do card" style="width: 15rem; height: 15rem;">
               <div class="card-body">
                 <h5 class="card-title">Faqueiro</h5>
-                <p class="card-text">Faqueiro 24 peças Petals Preto.</p>
-                <p class="card-text">Valor R$ 129,90  <a href="presente.php" class="btn btn-primary">Presentear</a></p>
+                <p class="card-text">Faqueiro 24 peças tramontina.</p>
+                <p class="card-text">Valor R$ 84,90  <a href="presente.php" class="btn btn-primary">Presentear</a></p>
               </div>
             </div>
 
@@ -133,7 +133,7 @@
               <img class="card-img-top mx-auto d-block" src="img/presentes/img-4.jpg" alt="Imagem de capa do card" style="width: 15rem; height: 15rem;">
               <div class="card-body">
                 <h5 class="card-title">Bebidas</h5>
-                <p class="card-text">Não deixe faltar bebidas e churrasco na casa dos noivos para quando você for visitar!.</p>
+                <p class="card-text">Não deixe faltar bebidas e churrasco na casa dos noivos para quando você for visitá-los</p>
                 <p class="card-text">Valor R$ 100,00  <a href="presente.php" class="btn btn-primary">Presentear</a></p>
               </div>
             </div>
@@ -152,8 +152,8 @@
               <img class="card-img-top mx-auto d-block" src="img/presentes/img-1.jpg" alt="Imagem de capa do card" style="width: 15rem; height: 15rem;">
               <div class="card-body">
                 <h5 class="card-title">Jogo de Copos</h5>
-                <p class="card-text">Jogo de Copos Baixos Ideal 290ml 6 Peças.</p>
-                <p class="card-text">Valor R$ 90,00  <a href="presente.php" class="btn btn-primary">Presentear</a></p>
+                <p class="card-text">Jogo de Copos Baixos Ideal 290ml <br>6 Peças.</p>
+                <p class="card-text">Valor R$ 65,00  <a href="presente.php" class="btn btn-primary">Presentear</a></p>
               </div>
             </div>
 
@@ -161,7 +161,7 @@
               <img class="card-img-top mx-auto d-block" src="img/presentes/img-3.jpg" alt="Imagem de capa do card" style="width: 15rem; height: 15rem;">
               <div class="card-body">
                 <h5 class="card-title">Adega</h5>
-                <p class="card-text">Adega de vinhos</p>
+                <p class="card-text">Adega de vinhos (03 cotas R$ 199,67)</p>
                 <p class="card-text">Valor R$ 599,00  <a href="presente.php" class="btn btn-primary">Presentear</a></p>
               </div>
             </div>

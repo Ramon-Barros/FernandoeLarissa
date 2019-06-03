@@ -31,5 +31,36 @@ font-size: 30px;
 
 }
 
+#formatado h3 {
+
+    font-family: 'Great';
+    margin-top: 60px;
+    font-size: 40px;
+}
+
+
+body {
+    background: url('08.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    height: 450px;
+  }
+
+  #banner{
+    background: url('../img/pic08.jpg') no-repeat center center fixed;
+    width: 2850px;
+    height: 450px;
+    
+    position: relative;
+  }
+  
+  .nav-link {
+
+    color: black;
+
+}
+
 
 

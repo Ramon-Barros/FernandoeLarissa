@@ -1,24 +1,30 @@
 
-<img src="img/pic08.jpg" class="img-fluid rounded mx-auto d-block" alt="Responsive image"style="width: 55rem;">
+
 
 <?php include_once("header.php");?>
 
-<body style="background-image: url('img/MIOLO-2.jpg');">
 
-<div class="card bg-dark text-white mx-auto d-block" style="width: 75rem;"id ="fonte">
-      <img class="card-img" src="img/pic12.jpg" alt="Imagem do card">
-         <div class="card-img-overlay">
-         <h5 class="card-title text-center">Sejam bem-vindo ao nosso MUNDO!!!</h5>
-          <p class="card-text" >
-                    Estamos radiantes de alegria poder compartilhar este momento com vocês.
-                    Para se encontrar a felicidade é importante que se tenhar um amor, uma estrutura familiar e bons amigos. Nós já encontramos o amor, temos a melhor família e aqui esperamos nossos grande amigos, vocês!
-                    Amigos e familiares, é com muita alegria que criamos essse espaço para informa-los dos preparativos e informações sobre o nosso casamento! 
-            </p>
-              <p class="card-text"></p>
-            </div>
+
+
+ 
+
+ <header>
+ <img src="img/test67.jpg" class="img-fluid img-thumbnail rounded mx-auto d-block" alt="Responsive image"style="width: 55rem;" id="tela">
+  </header>
+
+<!-- Page Content -->
+<section class="py-5">
+  <div class="container">
+    <h1 class="font-weight-light text-center">Sejam bem-vindos ao nosso MUNDO!!!</h1>
+    <p class="lead">Estamos radiantes de alegria em poder compartilhar este momento com vocês.<p class="lead">
+                    Para se encontrar a felicidade é importante que se tenhar um amor, uma estrutura familiar e bons amigos. <br>Nós já encontramos o amor, temos a melhor família e aqui esperamos nossos grande amigos, vocês!
+                    <p class="lead">Amigos e familiares, é com muita alegria que criamos este espaço para informá-los dos preparativos sobre o nosso casamento!</p>
+      <p class="lead">Grande beijo! </p>
   </div>
+</section>
+    
   
-</body>
+  
 
 
 
