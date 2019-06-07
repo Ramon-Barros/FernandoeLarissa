@@ -41,9 +41,10 @@
             <li class="nav-item">
             <a class="nav-link" href="ListaPresentes.php">Lista de Presentes</a>
             </li>
-            <li class="nav-item">
-                <a class="nav-link" href="Local.php">Local</a>
-            </li>
+           
             
         </ul>
+
+
+        
     </header>

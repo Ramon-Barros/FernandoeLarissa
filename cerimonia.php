@@ -12,7 +12,7 @@
 
 <div class="container">
   <div class="card border-0 shadow my-5">
-    <div class="card-body p-5"id="fonte">
+    <div class="card-body p-5 "id="fonte">
       <h1 class="font-weight-light">Olá! queridos amigos e familiares!</h1>
       <p class="lead">É com grande alegria que anunciamos nosso casamento!<br>
               Para vocês que fazem parte de nossas vidas, um convite para nos verem solteiros pela última vez, casados pela única e felizes para sempre!<p class="lead">

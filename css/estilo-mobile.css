@@ -1,6 +1,6 @@
 @media only screen and (max-width: 480px) {
     .open-menu ul{
-        display: none;
+        
     }
 
     #tamanho {
@@ -9,5 +9,7 @@
     img#tela {
         width: 25rem;
     }
+
+ 
 
 }
