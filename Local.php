@@ -1,10 +1,22 @@
 <?php include_once("header.php");?>
 
-<div class="card text-center">
+
+
+<body  style =" background: url('img/moldura.png') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;">
+
+<div class="card text-center" style =" background: url('img/moldura.png') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;">
 
   <div class="card-body">
-      <h2>Faça parte da nossa história de amor, confirme sua presença.</h2>
-      <h3>Confirme sua presença</h3>      
+      <h2>Faça parte da nossa história de amor, </h2>
+      <h3>Confirme sua presença - (98) 9-85623869 R.S.V.P</h3>      
   </div>
 
   <form class=" mx-auto">
@@ -24,21 +36,21 @@
   
   <div style="height: 20px"></div>
   
-  <label for="exampleInputEmail1">Quantas Adultos ?</label>
+  <label for="exampleInputEmail1">Quantos Adultos ?</label>
 
   <label class="sr-only" for="inlineFormInputGroupUsername2">Usuário</label>
-  <div style="height: 20px"></div>
+  <div style="height: 10px"></div>
   <div class="input-group mb-2 mr-sm-2">
     
-    <input type="text" class="form-control" id="" placeholder="E-mail">
+    <input type="text" class="form-control" id="" placeholder="Quantidade">
   </div>
 
    
 
-  <button type="submit" class="btn btn-primary mb-2">Enviar</button>
+  <button type="submit" class="btn btn-primary mb-2">Confirmar</button>
 </form>
   
 </div>
+</body>
 
-<!--colocar o mapa do local do casamento-->
 
