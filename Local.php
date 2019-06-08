@@ -7,24 +7,33 @@
       <h3>Confirme sua presença</h3>      
   </div>
 
-  <form class="form-inline mx-auto">
+  <form class=" mx-auto">
+<!--Inicio do formaulario-->
+  <label for="exampleInputEmail1">Você vai ao Casamento ?</label>
+           <div style="height: 20px"></div>
+
+                  <div class="radio">
+                       <label><input type="radio" name="optradio" checked>Sim</label>
+                  </div>
+                  <div class="radio">
+                       <label><input type="radio" name="optradio">Não</label>
+                  </div>
+<!--acaba aqui-->
+  <label for="exampleInputEmail1"></label>
+  <input type="text" class="form-control mb-2 mr-sm-2" id="inlineFormInputName2" placeholder="Nome do Convidado">
   
-  <input type="text" class="form-control mb-2 mr-sm-2" id="inlineFormInputName2" placeholder="Nome">
+  <div style="height: 20px"></div>
+  
+  <label for="exampleInputEmail1">Quantas Adultos ?</label>
 
   <label class="sr-only" for="inlineFormInputGroupUsername2">Usuário</label>
+  <div style="height: 20px"></div>
   <div class="input-group mb-2 mr-sm-2">
-    <div class="input-group-prepend">
-      <div class="input-group-text">@</div>
-    </div>
-    <input type="text" class="form-control" id="inlineFormInputGroupUsername2" placeholder="E-mail">
+    
+    <input type="text" class="form-control" id="" placeholder="E-mail">
   </div>
 
-  <div class="form-check mb-2 mr-sm-2">
-    <input class="form-check-input" type="checkbox" id="inlineFormCheck">
-    <label class="form-check-label" for="inlineFormCheck">
-      Lembrar de mim
-    </label>
-  </div>
+   
 
   <button type="submit" class="btn btn-primary mb-2">Enviar</button>
 </form>
