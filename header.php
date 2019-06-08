@@ -35,7 +35,7 @@
             </li>
 
             <li class="nav-item">
-                <a class="nav-link" href="Ospadrinhos.php">Os Padrinhos</a>
+                <a class="nav-link" href="Ospadrinhos.php">Ao nosso Lado</a>
              </li>
 
             <li class="nav-item">

@@ -45,17 +45,17 @@
         <div class="card-deck">
 
             <div class="card">
-              <img class="card-img-top mx-auto d-block" src="img/presentes/img-8.jpg" alt="Imagem de capa do card" style="width: 15rem; height: 15rem;">
+              <img class="card-img-top mx-auto d-block" src="img/presentes/img-1.jpg" alt="Imagem de capa do card" style="width: 15rem; height: 15rem;">
               <div class="card-body">
-                <h5 class="card-title">Jogo Cama</h5>
-                <p class="card-text">Jogo Cama - Liso 200 Fios <br> Casal – Branco.</p>
-                <p class="card-text">Valor: R$ 150,00  <a href="presente.php" class="btn btn-primary">Presentear</a></p>
+              <h5 class="card-title">Jogo de Copos</h5>
+                <p class="card-text">Jogo de Copos Baixos Ideal 290ml <br>6 Peças.</p>
+                <p class="card-text">Valor R$ 65,00  <a href="ListaPresentes.php" class="btn btn-danger">Comprado</a></p>
               </div>
             </div>
 
             
             <div class="card">
-              <img class="card-img-top mx-auto d-block" src="img/presentes/img-7.jpg" alt="Imagem de capa do card" style="width: 15rem; height: 15rem;">
+              <img class="card-img-top mx-auto d-block" src="img/presentes/img-2.png" alt="Imagem de capa do card" style="width: 15rem; height: 15rem;">
               <div class="card-body">
                 <h5 class="card-title">Conjunto para Fondue</h5>
                 <p class="card-text">Conjunto para Fondue c/ 10 peças.</p>
@@ -83,14 +83,17 @@
 
           </div>
 
+
           <br>
+
+
         <div class="card-deck">
 
             <div class="card">
-              <img class="card-img-top mx-auto d-block" src="img/presentes/img-12.jpg" alt="Imagem de capa do card" style="width: 15rem; height: 15rem;">
+              <img class="card-img-top mx-auto d-block" src="img/presentes/img-3.png" alt="Imagem de capa do card" style="width: 15rem; height: 15rem;">
               <div class="card-body">
-                <h5 class="card-title">Despedida de solteiro para o noivo</h5>
-                <p class="card-text">Despedida de solteiro para o noivo (Cada cota é uma garrafa!).</p>
+                <h5 class="card-title">Jogo de Caipirinha</h5>
+                <p class="card-text">Jogo de Caipirinha madeira 8 peças.</p>
                 <p class="card-text">Valor R$ 100,00  <a href="presente.php" class="btn btn-primary">Presentear</a></p>
               </div>
             </div>
@@ -115,17 +118,18 @@
             </div>
 
             <div class="card">
-              <img class="card-img-top mx-auto d-block" src="img/presentes/img-5.jpg" alt="Imagem de capa do card" style="width: 15rem; height: 15rem;">
+              <img class="card-img-top mx-auto d-block" src="img/presentes/img-6.png" alt="Imagem de capa do card" style="width: 15rem; height: 15rem;">
               <div class="card-body">
-                <h5 class="card-title">Acessórios noiva</h5>
-                <p class="card-text">Acessórios para a noiva usar na despedida de solteira </p>
-                <p class="card-text">Valor R$ 90,00 <a href="presente.php" class="btn btn-primary">Presentear</a> </p>
+                <h5 class="card-title">Jogo de facas</h5>
+                <p class="card-text">Jogo de facas com cepo rainbow 15 pecas (02 cotas R$ 139,95)</p>
+                <p class="card-text">Valor R$ 279,90 <a href="presente.php" class="btn btn-primary">Presentear</a> </p>
               </div>
             </div>
 
           </div>
 
           <br>
+          
 
         <div class="card-deck">
 
@@ -149,11 +153,11 @@
             </div>
 
           <div class="card">
-              <img class="card-img-top mx-auto d-block" src="img/presentes/img-1.jpg" alt="Imagem de capa do card" style="width: 15rem; height: 15rem;">
+              <img class="card-img-top mx-auto d-block" src="img/presentes/img-9.png" alt="Imagem de capa do card" style="width: 15rem; height: 15rem;">
               <div class="card-body">
-                <h5 class="card-title">Jogo de Copos</h5>
-                <p class="card-text">Jogo de Copos Baixos Ideal 290ml <br>6 Peças.</p>
-                <p class="card-text">Valor R$ 65,00  <a href="presente.php" class="btn btn-primary">Presentear</a></p>
+                <h5 class="card-title">Jarra Edge</h5>
+                <p class="card-text">Jarra Edge 1L </p>
+                <p class="card-text">Valor R$ 74,90  <a href="presente.php" class="btn btn-primary">Presentear</a></p>
               </div>
             </div>
 
@@ -166,7 +170,52 @@
               </div>
             </div>
 
-          </div>
+            </div>
+
+
+      <br>
+
+
+<div class="card-deck">
+
+    <div class="card">
+      <img class="card-img-top mx-auto d-block" src="img/presentes/img-5.png" alt="Imagem de capa do card" style="width: 15rem; height: 15rem;">
+      <div class="card-body">
+        <h5 class="card-title">Jogo de Utensílios</h5>
+        <p class="card-text">Jogo de de Utensílios Bambus 6 peças.</p>
+        <p class="card-text">Valor R$ 83,50  <a href="presente.php" class="btn btn-primary">Presentear</a></p>
+      </div>
+    </div>
+
+    
+    <div class="card">
+      <img class="card-img-top mx-auto d-block" src="img/presentes/img-4.png" alt="Imagem de capa do card" style="width: 15rem; height: 15rem;">
+      <div class="card-body">
+        <h5 class="card-title">Jogo de Argolas </h5>
+        <p class="card-text">Jogo de argolas para guardanapo clara 4 peças.</p>
+        <p class="card-text">Valor R$ 47,49  <a href="ListaPresentes.php" class="btn btn-danger">Comprado</a></p>
+      </div>
+    </div>
+
+  <div class="card">
+      <img class="card-img-top mx-auto d-block" src="img/presentes/img-10.png" alt="Imagem de capa do card" style="width: 15rem; height: 15rem;">
+      <div class="card-body">
+        <h5 class="card-title">Prato para Pizza</h5>
+        <p class="card-text">Parato para pizza Mozzarella.</p>
+        <p class="card-text">Valor R$ 34,90 <a href="ListaPresentes.php" class="btn btn-danger">Comprado</a> </p>
+      </div>
+    </div>
+
+    <div class="card">
+      <img class="card-img-top mx-auto d-block" src="img/presentes/img-8.png" alt="Imagem de capa do card" style="width: 15rem; height: 15rem;">
+      <div class="card-body">
+        <h5 class="card-title">Tábua de Corte</h5>
+        <p class="card-text">Tábua de Corte Bambus 35cm x 25 cm</p>
+        <p class="card-text">Valor R$ 59,90 <a href="ListaPresentes.php" class="btn btn-danger">Comprado</a> </p>
+      </div>
+    </div>
+
+  </div>
 
       
               
