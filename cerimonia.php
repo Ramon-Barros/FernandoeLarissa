@@ -16,8 +16,8 @@
       <h1 class="font-weight-light">Olá! queridos amigos e familiares!</h1>
       <p class="lead">É com grande alegria que anunciamos nosso casamento!<br>
               Para vocês que fazem parte de nossas vidas, um convite para nos verem solteiros pela última vez, casados pela única e felizes para sempre!<p class="lead">
-              Aqui vocês encontrarão um pouco sobre a nossa história, fotos, detalhe sobre o evento, sugestões na lista de presentes e muito mais.<p class="lead">
-            Esperamos ver o rostinho de cada um de vocês no nosso casamento para compartilhar e complestar a nossa felicidade!!!</p>
+              <p class="lead">
+            Esperamos ver o rostinho de cada um de vocês no nosso casamento para compartilhar e completar a nossa felicidade!!!</p>
       <p class="lead">Grande beijo! </p>
       <div style="height: 100px"></div>
 
@@ -29,7 +29,7 @@
 
             <div class="col-sm-12 col-md-7">
                 <h3> Class Home</h3>
-                <p> Endereço: Av. dos Holandeses, S/N - Lote 16 - Calhau, São Luís - MA, 65071-380  </p>
+                <p> Endereço: Av. dos Holandeses, S/N - Lote 16 - Calhau, São Luís - MA, 65071-380 próximo ao retorno do shopping do Automóvel.</p>
               </div>
           </li>
           <div style="height: 50px"></div>
@@ -41,7 +41,7 @@
 
             <div class="col-sm-12 col-md-7">
                 <h3> Igreja São Vicente de Paulo</h3>
-                <p> Endereço: Av. Getúlio Vargas, s/n - Monte Castelo, São Luís - MA, 65030-005</p>
+                <p> Endereço: Av. Getúlio Vargas, s/n - Monte Castelo, São Luís - MA, 65030-005 Ref: entre o curso Wellington e 24º BC</p>
               </div>
           </li>
         </ul>

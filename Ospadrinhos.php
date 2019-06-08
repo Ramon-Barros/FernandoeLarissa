@@ -230,7 +230,7 @@
     <div class="col-xl-3 col-md-6 mb-4">
       <div class="card border-0 shadow">
             <figure class="col-sm-12 col-md-12">
-              <img class="card-img" src="img/pic44.jpg" alt="Deimoselles -  Nicole">
+              <img class="card-img" src="img/pic44.png" alt="Deimoselles -  Nicole">
             </figure>
         <div class="card-body text-center">
           <h5 class="card-title mb-0">Davi</h5>
