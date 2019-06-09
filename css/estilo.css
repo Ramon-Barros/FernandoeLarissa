@@ -9,7 +9,16 @@
     src: url("../fonts/Great/GreatVibes-Regular.ttf")
 	
 }
+@font-face {
+    font-family: 'Karine';
+    src: url("../fonts/karine/Karine aime les Chocolats.ttf")
+	
+}
 
+#letra h1 {
+    font-family: 'Karine';
+    font-size: 3em;
+}
 #fonte li {
     font-family: 'Great';
     font-size: 2em;
