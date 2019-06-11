@@ -1,5 +1,6 @@
 <?php include_once("header.php");?>
 
+
 <header class="bg-light text-center py-5 mb-4">
   <div class="container">
     <h1 class="font-weight-light text-black">Os Padrinhos</h1>
@@ -17,7 +18,11 @@
  
 
 
-
+<body  style =" background: url('img/moldura1.png') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;"> 
 
 
 
@@ -261,5 +266,5 @@
       </div>
     </div>
   <!-- /1 primeira row -->
-
+</body>
 <?php include_once("footer.php");?>

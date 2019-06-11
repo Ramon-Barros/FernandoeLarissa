@@ -23,11 +23,11 @@
 
         <ul>
           <li class="row">
-            <figure class="col-sm-12 col-md-3">
+            <figure class="col-sm-6 col-md-3">
               <img class="card-img" src="img/class.png" alt="Imagem do card">
             </figure>
 
-            <div class="col-sm-12 col-md-7">
+            <div class="col-sm-6 col-md-7">
                 <h3> Class Home</h3>
                 <p> Endereço: Av. dos Holandeses, S/N - Lote 16 - Calhau, São Luís - MA, 65071-380 próximo ao retorno do shopping do Automóvel.</p>
               </div>
