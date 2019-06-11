@@ -3,7 +3,7 @@
 
 
 <!-- Page Content -->
-<body  style =" background: url('img/moldura.png') no-repeat center center fixed;
+<body  style =" background: url('img/moldura1.png') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -11,7 +11,7 @@
     
 
 <div class="container">
-  <div class="card border-0 shadow my-5">
+  <div class="card border-0 shadow my-5"style="background: rgba(255,255,255, 0.3); " >
     <div class="card-body p-5 "id="fonte">
       <h1 class="font-weight-light">Olá! queridos amigos e familiares!</h1>
       <p class="lead">É com grande alegria que anunciamos nosso casamento!<br>

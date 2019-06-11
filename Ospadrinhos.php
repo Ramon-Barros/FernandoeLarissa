@@ -166,12 +166,12 @@
   <div class="row">
     <!-- Team Member 1 -->
     <div class="col-xl-3 col-md-6 mb-4">
-      <div class="card border-0 shadow">
+      <div class="card border-0 shadow" style = "display: none;">
         <figure class="col-sm-6  col-md-12">
-              <img class="card-img" src="img/pic40.jpg" alt="Rikelma Baldez">
+           
             </figure>
         <div class="card-body text-center">
-          <h5 class="card-title mb-0">Sara Miranda</h5>
+          <h5 class="card-title mb-0"></h5>
           <div class="card-text text-black-50"> </div>
         </div>
       </div>
@@ -189,7 +189,17 @@
       </div>
     </div>
     <!-- Team Member 3 -->
-    
+    <div class="col-xl-3 col-md-6 mb-4">
+      <div class="card border-0 shadow">
+        <figure class="col-sm-6  col-md-12">
+              <img class="card-img" src="img/pic40.jpg" alt="Rikelma Baldez">
+            </figure>
+        <div class="card-body text-center">
+          <h5 class="card-title mb-0">Sara Miranda</h5>
+          <div class="card-text text-black-50"> </div>
+        </div>
+      </div>
+    </div>
     <!-- Team Member 4 -->
     
   <!-- /1 primeira row -->

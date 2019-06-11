@@ -1,7 +1,7 @@
 /*para celular*/
 @media only screen and (max-width: 480px) {
-    .open-menu ul{
-        
+    #menu ul{
+        display: none;
     }
 
     #tamanho {
@@ -11,6 +11,35 @@
         width: 25rem;
     }
 
- 
+    #btn-bars {
+        font-size: 22px;
+        position: absolute;
+        background: none;
+        border: none;
+        display: block;
+    }
 
+    header #menu-mobile {
+
+        position: fixed;
+        background-color: rgba(0,0,0,0.5);
+        width: 80%;
+        height: 100%;
+        top: 0;
+        
+    }
+
+    header .open-menu #menu-mobile {
+        left: 0;
+    }
+   
+    header  #menu-mobile li{
+        text-align: center;
+    }
+
+    header  #menu-mobile li a {
+        color: rgb(190, 10, 10);
+        font-family: 'Great';
+        font-size: 26px;
+    }
 }

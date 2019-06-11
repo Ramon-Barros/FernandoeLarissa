@@ -4,7 +4,8 @@
   <head>
     <!-- Meta tags Obrigatórias -->
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=2, shrink-to-fit=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="fonts/font-awesome/css/font-awesome.min.css">
     <link rel="stylesheet" href="css/estilo.css">
     <link rel="stylesheet" href="css/estilo-mobile.css">
 
@@ -19,33 +20,64 @@
     <title>Larissa e Fernando </title>
   </head>
   <body>
-    <header class="open-menu" id="fonte">
-                         
 
-        <ul class="nav justify-content-center">
-            <li class="nav-item">
-            <a class="nav-link active" href="index.php">Home</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="OsNoivos.php">Os Noivos</a>
-            </li>
+  <!--
+    <header class="open-menu">
 
-            <li class="nav-item">
-                    <a class="nav-link" href="cerimonia.php">Cerimônia</a>
-            </li>
+            <div id="menu-mobile" class="visible-xs">
 
-            <li class="nav-item">
-                <a class="nav-link" href="Ospadrinhos.php">Ao nosso Lado</a>
-             </li>
+                    <ul class="list-unstyled">
 
-            <li class="nav-item">
-            <a class="nav-link" href="ListaPresentes.php">Lista de Presentes</a>
-            </li>
-            <li class="nav-item">
-            <a class="nav-link" href="Local.php">Confirmação de Presença</a>
-            </li>
+                        <li><a href="index.php">Home</a></li>
+                        <li><a href="OsNoivos.php">Os Noivos</a></li>
+                        <li><a href="cerimonia.php">Cerimônia</a></li>
+                        <li><a href="Ospadrinhos.php">Ao nosso Lado</a></li>
+                        <li><a href="ListaPresentes.php">Lista de Presentes</a></li>
+                        <li><a href="Local.php">Confirmação de Presença</a></li>
+                    
+                     </ul>
+            </div>
+
+
+
+            <button id="btn-bars" type="button"><i class="fa fa-bars"></i></button>
+
             
-        </ul>
+
+                -->
+
+          
+					
+    
+                         
+        <div class="" id="fonte">
+            <div class="" id="menu">
+                <ul class="nav justify-content-center">
+                    <li class="nav-item">
+                    <a class="nav-link active" href="index.php">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="OsNoivos.php">Os Noivos</a>
+                    </li>
+
+                    <li class="nav-item">
+                            <a class="nav-link" href="cerimonia.php">Cerimônia</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="Ospadrinhos.php">Ao nosso Lado</a>
+                    </li>
+
+                    <li class="nav-item">
+                    <a class="nav-link" href="ListaPresentes.php">Lista de Presentes</a>
+                    </li>
+                    <li class="nav-item">
+                    <a class="nav-link" href="Local.php">Confirmação de Presença</a>
+                    </li>
+                    
+                </ul>
+           </div>
+        </div>
 
 
         

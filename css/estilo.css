@@ -16,7 +16,11 @@
 }
 
 #letra h1 {
-    font-family: 'Karine';
+    font-family: 'Great';
+    font-size: 3em;
+}
+#letra p {
+    font-family: 'Great';
     font-size: 3em;
 }
 #fonte li {
@@ -70,6 +74,9 @@ body {
     color: black;
 
 }
-
+#btn-bars {
+    
+    display: none;
+}
 
 
