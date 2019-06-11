@@ -57,7 +57,7 @@
                     <a class="nav-link active" href="index.php">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="OsNoivos.php">Os Noivos</a>
+                        <a class="nav-link" href="osNoivos.php">Os Noivos</a>
                     </li>
 
                     <li class="nav-item">
@@ -65,14 +65,14 @@
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link" href="Ospadrinhos.php">Ao nosso Lado</a>
+                        <a class="nav-link" href="ospadrinhos.php">Ao nosso Lado</a>
                     </li>
 
                     <li class="nav-item">
-                    <a class="nav-link" href="ListaPresentes.php">Lista de Presentes</a>
+                    <a class="nav-link" href="listaPresentes.php">Lista de Presentes</a>
                     </li>
                     <li class="nav-item">
-                    <a class="nav-link" href="Local.php">Confirmação de Presença</a>
+                    <a class="nav-link" href="local.php">Confirmação de Presença</a>
                     </li>
                     
                 </ul>
