@@ -102,8 +102,8 @@
             <div class="card">
               <img class="card-img-top mx-auto d-block" src="img/presentes/img-1.png" alt="Imagem de capa do card" style="width: 15rem; height: 15rem;">
               <div class="card-body">
-                <h5 class="card-title">Despedida de solteiro para o noiva</h5>
-                <p class="card-text">Despedida de solteiro para o noiva (Ela também tem direito).</p>
+                <h5 class="card-title">Despedida de solteira para a noiva</h5>
+                <p class="card-text">Despedida de solteira para a noiva (Ela também tem direito).</p>
                 <p class="card-text">Valor R$ 100,00  <a href="presente.php" class="btn btn-primary">Presentear</a></p>
               </div>
             </div>

@@ -1,6 +1,6 @@
 <?php include_once("header.php");?>
 
-
+<hr class="mt-2 mb-5">
 <body style =" background: url('img/moldura1.png') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -10,7 +10,7 @@
 <div id="letra">
 <h1 class="font-weight-light text-center text-lg-center mt-4 mb-0">Nossa história</h1></div>
 <div class="container" id="letra">
-<h1 class="font-weight-light text-center text-lg-center mt-4 mb-0">Como é bom recordar!</h1></div>
+<h3 class="font-weight-light text-center text-lg-center mt-4 mb-0">Como é bom recordar!</h3></div>
 
 
 <div class="container" id="letra" style="background: rgba(255,255,255, 0.1); ">

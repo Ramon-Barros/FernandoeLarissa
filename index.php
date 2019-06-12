@@ -5,7 +5,11 @@
 <header>
       <img src="img/test67.jpg" class="img-fluid img-thumbnail rounded mx-auto d-block" alt="logo"style="width: 55rem;" id="tela">
 </header>
-
+<body  style =" background: url('img/moldura12.png') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;"> 
 <!-- Corpo da pagina -->
 <section class="py-5">
   <div id="letra">
@@ -33,7 +37,7 @@
     
   
   
-
+</body>
 
 
 <?php include_once("footer.php");?>

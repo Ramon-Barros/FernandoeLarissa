@@ -17,7 +17,28 @@
 
 #letra h1 {
     font-family: 'Great';
+    font-size: 4em;
+}
+#letra h3 {
+    font-family: 'Great';
+    font-size: 2em;
+    
+}
+#letra-cerimonias h1 {
+    font-family: 'Great';
+    font-size: 4em;
+}
+#letra-cerimonias p {
+    font-family: 'Great';
+    font-size: 2em;
+}
+#letra-cerimonias2 h3 {
+    font-family: 'Great';
     font-size: 3em;
+}
+#letra-cerimonias2 p {
+    font-family: 'Alexandria';
+    font-size: 2em;
 }
 #letra p {
     font-family: 'Great';
@@ -26,6 +47,7 @@
 #fonte li {
     font-family: 'Great';
     font-size: 2em;
+    
 }
 
 
