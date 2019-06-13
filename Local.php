@@ -2,13 +2,13 @@
 
 
 
-<body  style =" background: url('img/moldura1.png') no-repeat center center fixed;
+<body  style =" background: url('img/moldura12.png') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;">
 
-<div class="card text-center" style =" background: url('img/moldura1.png') no-repeat center center fixed;
+<div class="card text-center" style =" background: url('img/moldura12.png') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;

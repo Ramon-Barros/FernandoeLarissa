@@ -42,7 +42,7 @@
             </figure>
 
             <div class="col-sm-12 col-md-7">
-                <h3> Class Home às 21:30min</h3>
+                <h3> Class Eventos às 21:30min</h3>
                 <p>Endereço: Av. dos Holandeses, S/N - Lote 16 - Calhau, São Luís - MA, 
                 65071-380 próximo ao retorno do shopping do Automóvel.</p>
               </div>
