@@ -2,7 +2,7 @@
 
 
 <header class="bg-light text-center py-5 mb-4">
-  <div class="container">
+  <div class="container" id="letra-cerimonias">
     <h1 class="font-weight-light text-black">Os Padrinhos</h1>
   </div>
 </header>
@@ -159,10 +159,10 @@
     <!-- Team Member 4 -->
     
 
+<div style="height: 50px"></div>
 
-
-<div class="container">
-    <h1 class="font-weight-light text-black text-center">Demoiselle</h1>
+<div class="container" id="letra-cerimonias">
+    <h1 class="font-weight-light text-black text-center" >Demoiselle</h1>
 </div>
 
 <br>
@@ -208,8 +208,8 @@
     <!-- Team Member 4 -->
     
   <!-- /1 primeira row -->
-
-  <div class="container">
+  <div style="height: 50px"></div>
+  <div class="container" id="letra-cerimonias">
     <h1 class="font-weight-light text-black text-center">Daminha e Pajens</h1>
 </div>
 
