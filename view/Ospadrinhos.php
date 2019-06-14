@@ -1,7 +1,7 @@
 <?php include_once("header.php");?>
 
 
-<header class="bg-light text-center py-5 mb-4">
+<header class=" text-center py-5 mb-4">
   <div class="container" id="letra-cerimonias">
     <h1 class="font-weight-light text-black">Os Padrinhos</h1>
   </div>
@@ -27,27 +27,27 @@
 
 
 
-  <div class="container">
+  <div class="container" id="letra-cerimonias">
   <div class="row">
     <!-- Team Member 1 -->
     <div class="col-xl-3 col-md-6 mb-4">
-      <div class="card border-0 shadow">
+      <div class="card border-0 shadow"style="background: rgba(255,255,255, 0.3); ">
       <figure class="col-sm-6  col-md-12">
               <img class="card-img" src="img/pic19.jpg" alt="Rikelma Baldez">
             </figure>
-        <div class="card-body text-center">
+        <div class="card-body text-center"style="background: rgba(255,255,255, 0.3); " >
           <h5 class="card-title mb-0">Rikelma Baldez</h5>
           <div class="card-text text-black-50"></div>
         </div>
       </div>
     </div>
     <!-- Team Member 2 -->
-    <div class="col-xl-3 col-md-6 mb-4">
+    <div class="col-xl-3 col-md-6 mb-4"style="background: rgba(255,255,255, 0.3); ">
       <div class="card border-0 shadow">
       <figure class="col-sm-12 col-md-12">
               <img class="card-img" src="img/pic20.jpg" alt="Deimoselles -  Nicole">
             </figure>
-        <div class="card-body text-center">
+        <div class="card-body text-center" style="background: rgba(255,255,255, 0.3); ">
           <h5 class="card-title mb-0">Marcos Braga</h5>
           <div class="card-text text-black-50"></div>
         </div>
