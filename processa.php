@@ -9,7 +9,7 @@ if(empty($nome)||empty($valor1))
 {
     
 
-    echo "Volte e preencha todos os campos";
+    header("LOCATION: erro.php");
     exit;
 
    
@@ -24,7 +24,7 @@ $stmt->bindParam(":VALOR", $valor1);
 
 if($result===true)
 {
-    header("LOCATION: index.php");
+    header("LOCATION: certo.php");
 }else{
     header("LOCATION: index.php");
 }

@@ -52,6 +52,17 @@ function(){
     require_once("view/presente.php");
 });
 
+$app->get('/certo.php', 
+
+function(){
+    require_once("view/certo.php");
+});
+
+$app->get('/erro.php', 
+
+function(){
+    require_once("view/erro.php");
+});
 
 $app->run();
 
