@@ -18,7 +18,7 @@ $total= $stmt_count->fetchColumn();
 
 <!--Inicio do HTML da Tabela-->
 
-<?php include_once("header.php");?>
+<?php include_once("view/header.php");?>
 
 
 
