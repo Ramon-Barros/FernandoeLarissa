@@ -5,10 +5,10 @@
 <div class="card" id="fonte">
   <div class="card-body">
   <p style="text-align: justify;">Queridos familiares e amigos,<br>
-        Muito obgrigada por escolher esse presente!
+        Muito obrigada por escolher esse presente!
         <p>Para sua comodidade temos as seguintes opções de nos presentear<br>
         <p>Via transferência bancária:<br><b>Larissa L F Barros</b> Banco do Brasil <b>Agência:</b> 5784-3 Conta: 23.286-6
-        <br>Itaú – <b>Agência:</b> 7859 Conta: 00453-8
+        <br>Itaú – <b>Agência:</b> 7859 Conta: 00453-8, CPF: 025.395.613-73.
         </p>
         
 
@@ -16,7 +16,7 @@
         <p> Também temos a opção de seu presente ser presencial: IE São Luís – Endereço:
           Av. Colares Moreira, Ed São Luís Multiempresarial,
           Jardim Renascença II, loja 10, São Luís.
-            Telefone: 3235-0271. O seu presente pode ser parcelado em até 4x.</p>
+            Telefone: 3235-0271. O seu presente pode ser parcelado em até 2x.</p>
 
 
 <div style="height: 50px"></div>

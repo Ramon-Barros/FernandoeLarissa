@@ -17,9 +17,9 @@
               <img class="card-img-top mx-auto d-block" src="img/presentes/img-13.jpg" alt="Imagem de capa do card" style="width: 15rem; height: 15rem;">
               <div class="card-body">
                 <h5 class="card-title text-center">Jantar Romântico</h5>
-                <p class="card-text">Jantar romântico para os noivos em Punta del Este. (20 cotas)</p>
+                <p class="card-text">Jantar romântico para os noivos em Punta del Este. (15 cotas)</p>
                 <div style="height: 25px"></div>
-                <p class="card-text ">Valores de R$ 90,00 a R$ 150,00  <div class="text-right"> <a href="presente.php" class="btn btn-primary">Presentear</a></p></div>
+                <p class="card-text ">Valores de R$ 100,00 a R$ 150,00  <div class="text-right"> <a href="presente.php" class="btn btn-primary">Presentear</a></p></div>
                 </div>
             </div>
 

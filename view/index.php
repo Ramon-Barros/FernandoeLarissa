@@ -12,16 +12,21 @@
     -o-background-size: cover;"> 
 <!-- Corpo da pagina -->
 <section class="py-5">
-  <div id="letra">
-    <div class="container col-md-8">
+  <div id="letra-ceremonias">
+    <div class="container col-md-8"id="letra">
       <h1 class="font-weight-light text-center">Sejam bem-vindos ao nosso Mundo!!!</h1>
     <div style="height: 25px"></div>
-        <p class="lead text-justify">Estamos radiantes de alegria em poder compartilhar este momento com vocês.
+    <div class="card text-center border-light mb-4" id="letra-cerimonias"style="background: rgba(255,255,255, 0.3);">
+  <div class="card-body">
+  <p class="lead text-justify">Estamos radiantes de alegria em poder compartilhar este momento com vocês.
         <p class="lead text-justify"> Para se encontrar a felicidade é importante que se tenha um amor, uma estrutura familiar e bons amigos.
         <p class="lead text-justify">Nós já encontramos o amor, temos a melhor família e aqui esperamos nossos grande amigos, vocês!<p class="lead"> Neste site, através da barra de menu, vocês encontram todas as informações sobre o nosso tão esperado 13.07.19!<br>
           Estamos muito felizes de poder compartilhar tudo com vocês.
         <p class="lead text-justify">Amigos e familiares, é com muita alegria que criamos este espaço para informá-los dos preparativos sobre o nosso casamento!</p>
         <p><b> Usem e abusem da nossa hastag #lariefernando #casamentolariefe</p>
+        
+    </div>
+    </div>
       <div style="height: 50px"></div>            
       <p class="lead text-center">Grande beijo! </p>
       <div style="height: 50px"></div> 
@@ -33,6 +38,9 @@
 
     </div>
   </div>
+
+
+
 </section>
     
   

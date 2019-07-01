@@ -21,32 +21,7 @@
   </head>
   <body>
 
-  <!--
-    <header class="open-menu">
-
-            <div id="menu-mobile" class="visible-xs">
-
-                    <ul class="list-unstyled">
-
-                        <li><a href="index.php">Home</a></li>
-                        <li><a href="OsNoivos.php">Os Noivos</a></li>
-                        <li><a href="cerimonia.php">Cerimônia</a></li>
-                        <li><a href="Ospadrinhos.php">Ao nosso Lado</a></li>
-                        <li><a href="ListaPresentes.php">Lista de Presentes</a></li>
-                        <li><a href="Local.php">Confirmação de Presença</a></li>
-                    
-                     </ul>
-            </div>
-
-
-
-            <button id="btn-bars" type="button"><i class="fa fa-bars"></i></button>
-
-            
-
-                -->
-
-          
+         
 					
     
                          
@@ -81,4 +56,4 @@
 
 
         
-    </header>
+    

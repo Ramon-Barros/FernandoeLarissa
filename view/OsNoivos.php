@@ -13,7 +13,9 @@
 <h3 class="font-weight-light text-center text-lg-center mt-4 mb-0">Como é bom recordar!</h3></div>
 
 
-<div class="container" id="letra" style="background: rgba(255,255,255, 0.1); ">
+
+  <div class="card text-center border-light mb-4" id="letra-cerimonias"style="background: rgba(255,255,255, 0.3);">
+  <div class="card-body">
   <p class="lead text-justify"> Conheça os detalhes da nossa caminhada até esse grande sonho do nosso casamento. 
     <p class="lead text-justify">
   Em 2010 nossa história começou... Em pensar que Fernando iria encontrar o amor da sua vida em uma loja de vendas de motocicletas. Lá estava Larissa, que no ambiente do seu trabalho não cogitaria se relacionar com um cliente.<br>
@@ -26,8 +28,9 @@
     Aqui é que a felicidade pretende se eternizar e fazer morada.
     É no amor que reconhecemos que nós dois somos um.</p>
   <p class="lead text-lg-center">Larissa e Fernando</p> 
-  
-  </div>
+        
+    </div>
+    </div>
 
 <hr class="mt-2 mb-5">
 
